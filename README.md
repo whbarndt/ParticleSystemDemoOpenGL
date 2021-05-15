@@ -1,6 +1,6 @@
 # ParticleSystemDemoOpenGL
-A Particle system demo I've created for learning Modern OpenGL using OpenGL 3.3, GLFW, and ImGui
+A simple particle system demo created to explore the mechanics of Modern OpenGL and understand the fundamentals of computer graphic rasterization. 
 
 - Term Project for Intro to Computer Graphics course at UAF.
-
-- Only works with Visual Studio 2019 at the moment.
+- Uses OpenGL 3.3, GLFW, and ImGui
+- Only works through Visual Studio 2019 at the moment.
